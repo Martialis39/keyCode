@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+html,
+body {
+  height: 100%;
+  width: 100%; }
+
+.main {
+  height: 98vh;
+  width: 100%;
+  background: #1924B1;
+  padding-top: 2vh;
+  color: #FFCA39;
+  text-align: center;
+  font-size: 30px; }
+  .main .display {
+    font-size: 30vh; }
+
+footer {
+  position: absolute;
+  bottom: 0;
+  padding: 10px; }
+  footer a {
+    color: #FFBB00; }
